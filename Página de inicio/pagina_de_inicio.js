@@ -172,7 +172,7 @@ class ProductsController {
   productos.addItem(
     "Hormiga Culona",
     "Una delicia culinaria que ha cautivado paladares durante siglos. Más que un simple plato, esta hormiga es un símbolo de la rica cultura gastronómica de la región, una tradición arraigada en la historia y la identidad de su gente.",
-    "https://colombia.travel/sites/default/files/styles/imagen_650x650/public/actividades/hormigas-culonas.jpg?itok=cX47YYHf",
+    "https://www.elespectador.com/resizer/v2/K45VVGHK5FEHTJQQPUHZQCSBKY.jpg?auth=237c9028d50ae7684182bf32c53f454bb1b6920657e02ba040807ba39dceb604&width=920&height=613&smart=true&quality=60",
     45000,
     "Region Andina"
   );
